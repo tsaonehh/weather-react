@@ -18,7 +18,7 @@ export default function Weather() {
           <div className="col-9">
             <input
               type="search"
-              placeholder="Type a city..."
+              placeholder="Type your city..."
               className="form-control"
               autoComplete="off"
             />
